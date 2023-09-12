@@ -1,3 +1,5 @@
+@OVERRIDE
+(da visualizzare in formato code) 
 MySQL Shell 8.0.34
 
 Copyright (c) 2016, 2023, Oracle and/or its affiliates.
